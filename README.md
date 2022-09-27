@@ -21,7 +21,7 @@ This document is tested and true from my experience, but it is also partly aspir
 ## Fun facts
 - Ananas are pineapples.
 - In a past life, I studied east asian studies (mostly modern china) as part of my time at Brown. It's still largely one of my favorite topics to learn and chat about. Still planning my next backpacking trip there!
-- I absolutely love music!
+- Sometimes music - the fact that it... exists? Just blows my mind!
 
 ### Bands (or band-adjacents) I'd like to see live in an intimate setting before I die
 - Pinegrove
