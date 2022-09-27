@@ -1,6 +1,9 @@
 # user-guide
 Last modified: Check commit history!
 
+## Feedback on this doc?
+- File an issue/make a PR!
+
 ## What is this?
 See https://review.firstround.com/the-indispensable-document-for-the-modern-manager
 
