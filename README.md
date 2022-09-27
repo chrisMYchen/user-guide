@@ -42,6 +42,7 @@ This document is tested and true from my experience, but it is also partly aspir
 - When I'm asked to deliver a specific business outcome or asked to solve a particular business need, as opposed to when I'm asked to implement a specific feature. I prefer to understand the context for problems deeply, so that I can have confidence in making decisions asynchronously and autonomously.
 - When I'm able to have my ear to the ground not just to the work what  I'm immediately responsible for, but the people and systems that surround my work. I find that I often operate in ["Glue"](https://noidea.Dog/glue) roles well within the team's I've een a part of. Accordingly, I prefer to be invited to more communication channels and knowledge bases than I'd necessarily be able to participate in. I am more frustrated when I did not know that something existed, than when I am included in something where the context may be out-of-scope.
 - When I'm able to fail fast, understanding that there are appropriate guardrails in place.
+- Similarly, I tend to bias towards action/measuring in practice over finding the perfect solution in one fell-swoop, as long as I understand/place the guardrails (or otherwise, taking action in a way that is cheaply reversible).
 
 ## Assumptions when I work with you
 - As an IC, I try to take work off your plate, end-to-end. That means starting by clearing setting and maintaining expectations, getting ahead of when things change, and following through on loose-ends.
