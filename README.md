@@ -23,7 +23,7 @@ This document is tested and true from my experience, but it is also partly aspir
 - Ananas are pineapples.
 - In a past life, I studied East Asian studies (mostly modern China) as part of my time at Brown. It's still largely one of my favorite topics to learn and chat about. Still planning my next backpacking trip there!
 - Sometimes music - the fact that it... exists? Just blows my mind!
-- Trying to learn how to swim so I can ![escape from Alcatraz](https://raceroster.com/events/2023/63137/2023-alcatraz-sharkfest-swim)!
+- Trying to learn how to swim so I can [escape from Alcatraz](https://raceroster.com/events/2023/63137/2023-alcatraz-sharkfest-swim)!
 
 ### Bands (or band-adjacents) I'd like to see live in an intimate setting before I die
 - Pinegrove
