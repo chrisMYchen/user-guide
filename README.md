@@ -33,8 +33,10 @@ This document is tested and true from my experience, but it is also partly aspir
 - Bon Iver
 
 ## Communication
+- Most urgent to least urgent: phone -> text -> slack -> project management tool -> mention on knowledge base/github/doc -> email
 - I process things gradually rather than on-the-fly. I process things best alone, writing on paper, and/or taking a walk. If presented with new and unexpected information during a realtime conversation, I will prefer to let you know that I don't have a response at the moment, and ask for a timeline in which you expect a follow-up. If  I'm needed to make a decision on the fly, I will default to decisions that are cheaply reversible.
-- Most urgent to least urgent: phone -> text -> slack -> mention on knowledge base/github/doc -> email
+- Accordingly, I find that the best way for me to collaborate tends to start asynchronously. The more clearly you can outline a problem or discussion in 
+written text first, the more meaningfully I will be able to participate. If not provided, I will often specifically ask for specifics in text to prepare in advanced. If we need to meet synchronously, please try to attach a meeting agenda.
 - I am upfront with my timeline expectations when I send communication. I will let you know if something is non-urgent (non-urgent), at your next availability (by default), or with a specific timeline (i.e. By end of week). I tend to communicate at all times of the day - whenever the relevant thought occurs.
 - If I am unable to respond to something immediately, I will acknowledge that I've received your message, and let you know when I'll be able to get back to you.
 - I find it most helpful to communicate decisions and thought processes with frameworks: what are the options, what are we evaluating them against, and how might we stack rank or prioritize. When I don't have a clear framework for something in mind, or am brainstorming fluidly, I will let you know upfront.
